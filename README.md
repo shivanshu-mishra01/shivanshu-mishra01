@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shivanshu Mishra
 
-### 🚀 Aspiring Data Scientist | Machine learning | Data Analytics Enthusiast
+### 🚀 Aspiring Data Scientist | Data Analytics | Machine learning 
 
 ---
 

@@ -89,6 +89,7 @@ I enjoy learning modern technologies, building practical projects, and continuou
 # 📫 Connect With Me
 
 📧 Email: shivanshumishra245@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/shivanshu-mishra-12135a341
 
 ---
